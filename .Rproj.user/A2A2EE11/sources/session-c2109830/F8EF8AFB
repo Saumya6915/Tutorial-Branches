@@ -3,7 +3,7 @@
     "path": "~/Tutorial-Branches/.gitignore",
     "project_path": ".gitignore",
     "type": "gitignore",
-    "hash": "3928882368",
+    "hash": "470929940",
     "contents": "",
     "dirty": false,
     "created": 1712652745606.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "0,6",
+        "cursorPosition": "2,4",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1712652756,
+    "lastKnownWriteTime": 1712653024,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1712652756094,
+    "last_content_update": 1712653024560,
     "read_only": false,
     "read_only_alternatives": []
 }
